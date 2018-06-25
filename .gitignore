@@ -1,2 +1,4 @@
-AppIcons/
+.DS_Store
 node_modules/
+AppIcons/
+resize.png
